@@ -12,11 +12,11 @@ Ce dépôt contient les travaux pratiques réalisés sur l'interaction avec les 
 * Analyse de l'impact du choix du modèle sur le nombre de tokens générés.
 
 <img width="752" height="100" alt="image" src="https://github.com/user-attachments/assets/521a054e-4fa3-4405-9fd7-2023870dbde9" />
+<img width="758" height="95" alt="image" src="https://github.com/user-attachments/assets/30bfece2-a313-4eaf-ab6f-11dcb0ba91b7" />
+<img width="758" height="172" alt="image" src="https://github.com/user-attachments/assets/3dce8b8c-b635-4a23-8144-c2e47b651727" />
+<img width="758" height="157" alt="image" src="https://github.com/user-attachments/assets/a9d28cfd-e291-4d98-805e-274d450bb1db" />
+<img width="759" height="188" alt="image" src="https://github.com/user-attachments/assets/4368a71d-6591-44c7-b886-815504c4638e" />
 
-
-> **📸 Capture d'écran à insérer :** Une capture de ton code montrant une phrase encodée et le nombre de tokens résultant.
-
----
 
 ## 🤖 2. How to Prompt OpenAI LLMs
 
