@@ -1,4 +1,4 @@
-# TP : Maîtrise du Prompt Engineering & Systèmes Multi-Agents
+# TP 1 : Prompt Engineering & Systèmes Multi-Agents
 
 Ce dépôt contient les travaux pratiques réalisés sur l'interaction avec les Grands Modèles de Langage (LLMs) via différentes plateformes (OpenAI, Ollama, Groq) et techniques avancées de prompting.
 
