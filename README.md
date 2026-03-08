@@ -73,10 +73,6 @@ Conception de prompts descriptifs pour obtenir des images précises.
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/180418f7-bb38-4895-8bfa-2899111cee31" />
 
 
-> **📸 Capture d'écran à insérer :** Une capture du prompt utilisé et de l'image générée résultante.
-
----
-
 ## 👁️ 8. Image Description (Vision)
 
 Utilisation des capacités multimodales des LLMs pour interpréter et décrire des images.
